@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://no-garlic.github.io/al-folio/sitemap.xml
+Sitemap: https://no-garlic.github.io/sitemap.xml
